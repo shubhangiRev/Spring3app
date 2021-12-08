@@ -31,7 +31,7 @@ public void revan1()
 
 public void revan2()
 {
-	System.out.println("i am in revan2  of testcontroller class");
+	System.out.println("i am in revan2  of testcontroller class  ");
 	
 }
 
